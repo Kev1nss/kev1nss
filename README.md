@@ -9,6 +9,8 @@
 [![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://kev11n.web.app/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevyn-silva-637b40156/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kev1n.ss/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([https://www.linkedin.com/in/kevyn-silva-637b40156/](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBmXGFgbJVssBspQdxzcHjQmTfxvfMzcGpzcqqDHCRzQthVWklQphwJsrwMXVxLwZlNBgSH))
+
 
 
 ![Kevyn Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=kev1nss&show_icons=true&theme=dark)
@@ -25,6 +27,8 @@
   
   
 </div><br/>
+
+
 
 Estudante apaixonado por tecnologia.💻
 

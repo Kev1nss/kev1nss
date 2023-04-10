@@ -1,4 +1,7 @@
-### Olá! Eu sou o Kevyn Silva  👋
+  <h1 align="center">
+    Oi Tudo bem? Eu sou o 
+    <a href="https://www.linkedin.com/in/kevyn-silva-637b40156/">Kevyn Silva 😃️</a>
+  </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2E8B57size=35&center=true&vCenter=true&width=1000&lines=I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -54,7 +57,7 @@ Estudante apaixonado por tecnologia.💻
 </div>
 
 
- ![Snake animation](https://github.com/kev1nss/kev1nss/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/kev1nss/kev1nss/blob/output/github-contribution-grid-snake.svg)
   
 
 

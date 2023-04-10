@@ -53,5 +53,5 @@ Estudante apaixonado por tecnologia.💻
 <br>
 </div>
 
-![Snake gif](https://github.com/kev1nss/kev1nss/blob/output/github-contribution-grid-snake.svg)
+![Snake gif](https://github.com/kev1nss/actions/github-action-snake)
   

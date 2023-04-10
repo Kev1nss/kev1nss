@@ -52,3 +52,5 @@ Estudante apaixonado por tecnologia.💻
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{kev1nss}/count.svg" /></p> 
 <br>
 </div
+
+![snake gif](https://github.com/Formandodev/kev1nss/blob/output/github-contribution-grid-snake.svg)
